@@ -1,6 +1,6 @@
----
+------------------------------------------------------------------------
 
----
+------------------------------------------------------------------------
 
 ---
 title: "Cody Dettlaff"
@@ -12,4 +12,4 @@ To pursue the activities I care about, I went to Bali to earn my Divemaster cert
 
 Work/life balance is very important to me, and I carried that into my academic career. I spend much of my time planning travel and visting to other contries. I enjoy seeing new spaces and meeting people I wouldn't otherwise meet. I've seen some incredible spaces, my favorite so far, the south island of New Zealand.
 
-![Cody and Shea](IMG_2626.png){alt="Cody and Shea"}
+![Cody and Shea](IMG_2626.png)
