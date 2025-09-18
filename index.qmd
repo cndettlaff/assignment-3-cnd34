@@ -1,7 +1,5 @@
 ---
-title: "assignment-3-cnd34"
+title: "Cody and Quang's Website"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![Trip to Ireland 2025: The Gap of Dunoe](IMG_1324.HEIC){fig-align="center"}
